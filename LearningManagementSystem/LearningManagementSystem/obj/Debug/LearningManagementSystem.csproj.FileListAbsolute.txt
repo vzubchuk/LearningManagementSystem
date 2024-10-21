@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\LearningManagementSystem\LearningManagementSystem\bin\Debug\LearningManagementSystem.exe
+C:\Users\ASUS\source\repos\LearningManagementSystem\LearningManagementSystem\bin\Debug\LearningManagementSystem.exe.config
+C:\Users\ASUS\source\repos\LearningManagementSystem\LearningManagementSystem\obj\Debug\LearningManagementSystem.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\LearningManagementSystem\LearningManagementSystem\obj\Debug\LearningManagementSystem.Form1.resources
+C:\Users\ASUS\source\repos\LearningManagementSystem\LearningManagementSystem\obj\Debug\LearningManagementSystem.Form2.resources
+C:\Users\ASUS\source\repos\LearningManagementSystem\LearningManagementSystem\obj\Debug\LearningManagementSystem.Form3.resources
+C:\Users\ASUS\source\repos\LearningManagementSystem\LearningManagementSystem\obj\Debug\LearningManagementSystem.Form4.resources
+C:\Users\ASUS\source\repos\LearningManagementSystem\LearningManagementSystem\obj\Debug\LearningManagementSystem.Properties.Resources.resources
+C:\Users\ASUS\source\repos\LearningManagementSystem\LearningManagementSystem\obj\Debug\LearningManagementSystem.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\LearningManagementSystem\LearningManagementSystem\obj\Debug\LearningManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\LearningManagementSystem\LearningManagementSystem\obj\Debug\LearningManagementSystem.exe
+C:\Users\ASUS\source\repos\LearningManagementSystem\LearningManagementSystem\obj\Debug\LearningManagementSystem.pdb
+C:\Users\ASUS\source\repos\LearningManagementSystem\LearningManagementSystem\bin\Debug\LearningManagementSystem.pdb
